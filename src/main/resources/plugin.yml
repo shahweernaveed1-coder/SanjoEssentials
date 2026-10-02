@@ -1,0 +1,10 @@
+name: SanjoEssentials
+main: me.SanjoLegend.SanjoEssentials.SanjoEssentials
+version: 1.0
+api-version: 1.21
+
+commands:
+  youtube:
+    description: Shows YouTube channel link
+  discord:
+    description: Shows Discord server invite
